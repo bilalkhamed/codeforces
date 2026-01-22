@@ -1,0 +1,18 @@
+# Ignore C++ compiled binaries
+*.exe
+*.out
+*.o
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore VS Code temp files
+.vscode/
+tempCodeRunnerFile*
+
+# Ignore Mac system files (if applicable)
+.DS_Store
+
+/PSUT-INTERMEDIATE
+/random
